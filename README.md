@@ -17,4 +17,4 @@ You could also use this with any other folder that contains images. As long as t
 
 ## :snake: Dependencies
 
-Written in Python for Windows. This script uses the following Python modules: ctypes, os, sys, winreg (and all submodules)
+Written in Python for Windows. This script uses the following Python modules: ctypes, os, sys, winreg (and all submodules).
