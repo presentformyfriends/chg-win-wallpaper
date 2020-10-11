@@ -9,7 +9,7 @@ The script queries the registry to get the current desktop background image, and
 
 Change the path in the script so that it points to whichever directory you have the images saved, then use Task Scheduler to schedule the script to run at the frequency you want.
 
-I schedule it so that the comics change daily, but you set it to hourly, weekly, whatever you want.
+I schedule it so that the comics change daily, but you could set it to hourly, weekly, whatever you want.
 
 You could also use this with any other folder that contains images. As long as the image filenames start with a number, the script will change images by ascending order.
 
