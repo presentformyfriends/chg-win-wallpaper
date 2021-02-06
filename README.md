@@ -3,7 +3,7 @@ Python script to change the Windows desktop background so that it displays a dif
 
 My previous repository consisted of downloading all of the xkcd comics from https://xkcd.com. This was my own take on a project from Al Sweigart's book "Automate the Boring Stuff" http://automatetheboringstuff.com/2e/chapter12/. Since I had used my script to save all of the comics to my hard drive, I thought I would write another script to display a different xkcd comic every day, starting with the very first one.
 
-The script queries the Window sregistry to get the current desktop background image, and, using the number in the filename as a reference, changes it to the next one in the xkcd images folder (in ascending numerical order).
+The script queries the Windows registry to get the current desktop background image, and, using the number in the filename as a reference, changes it to the next one in the xkcd images folder (in ascending numerical order).
 
 ## :computer: Usage
 
