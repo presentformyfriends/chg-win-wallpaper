@@ -1,4 +1,4 @@
-# chgWinWallpaper
+# chg-win-wallpaper
 Python script to change the Windows desktop background so that it displays a different xkcd comic every day.
 
 My previous repository consisted of downloading all of the xkcd comics from https://xkcd.com. This was my own take on a project from Al Sweigart's book "Automate the Boring Stuff" http://automatetheboringstuff.com/2e/chapter12/. Since I had used my script to save all of the comics to my hard drive, I thought I would write another script to display a different xkcd comic every day, starting with the very first one.
